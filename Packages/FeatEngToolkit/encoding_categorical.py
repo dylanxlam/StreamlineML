@@ -1,5 +1,11 @@
 # encoding_categorical.py: Enhancing Categorical Variable Encoding
 
+# Encoding categorical variables is the process of converting non-numeric data into a numerical format. 
+    # This is crucial for machine learning algorithms that require numeric input. Different techniques, 
+    # such as one-hot encoding, label encoding, and target encoding, are used to represent categorical 
+    # information in a way that can be utilized by these algorithms.
+
+
 # The encoding_categorical module in StreamlineML's Feature Engineering 
     # Toolkit provides a set of functions for advanced encoding of 
     # categorical variables. Built on top of pandas, numpy, and scikit-learn, 
