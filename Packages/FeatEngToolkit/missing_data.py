@@ -1,4 +1,4 @@
-# missing_data.py: Advanced Missing Data Handling for Pandas
+# missing_data.py: Advanced Missing Data Handling
 
 # A Module designed to enhance Pandas' missing data handling capabilities. 
     # Enhance Pandas' missing data capabilities with this comprehensive toolkit. 
